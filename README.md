@@ -47,7 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
-### 🌐 Network Scanning
+### Network Scanning
 <p>
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
 </p>
@@ -82,6 +82,5 @@
 ---
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b><br>
-<i>Always Learning • Always Improving • Securing the Future 🔐</i>
+ <b>Thanks for visiting my profile!</b><br>
 </p>
