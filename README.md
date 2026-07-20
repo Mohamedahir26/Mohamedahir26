@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir Mohamed</h1>
-<h3 align="center">Cybersecurity Professional | SOC Analyst | Computer Science Graduate</h3>
+<h3 align="center">Cybersecurity Professional | SOC Analyst |</h3>
 
 ---
 
@@ -7,8 +7,6 @@
 
 - 🛡️ Passionate Cybersecurity Professional with a focus on Security Operations Center (SOC) and Threat Detection.
 - 🎓 Bachelor's Degree in Computer Science.
-- 📊 Experienced with SIEM log analysis using Splunk.
-- 🔍 Skilled in network traffic analysis and endpoint security.
 - 🤝 Open to cybersecurity opportunities and collaborations.
 - 📍 Kismayo, Somalia
 
@@ -28,10 +26,10 @@
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=github,powershell,python,bash,linux,windows,vscode" />
+<img src="https://skillicons.dev/icons?i=github,powershell,python," />
 </p>
 
 ---
@@ -58,23 +56,6 @@
 - Threat Hunting Fundamentals
 - Malware Investigation
 
----
-
-## 💼 Technical Skills
-
-### Operating Systems
-- Windows
-- Linux (Ubuntu & Kali Linux)
-
-### Security Tools
-- Splunk
-- Wireshark
-- Nmap
-- Microsoft Defender for Endpoint
-
-### Scripting
-- PowerShell
-- Python (Basic)
 
 ---
 
