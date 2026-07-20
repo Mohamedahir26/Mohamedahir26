@@ -30,28 +30,27 @@
 </p>
 
 ---
-
 ## 🛡️ Security Tools
 
-### SIEM
-<p>
+### 📊 SIEM
+<p align="left">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 </p>
 
-### EDR
-<p>
+### 🛡️ EDR
+<p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
-### Packet Analysis
-<p>
+### 📡 Packet Analysis
+<p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
-### Network Scanning
-<p>
+
+### 🌐 Network Scanning
+<p align="left">
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
 </p>
----
 
 
 ## 🧠 Core Security Skills
