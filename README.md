@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir Mohamed</h1>
 
-<h3 align="center">
-Cybersecurity Professional | SOC Analyst
-</h3>
-
 ---
 
 ## 🚀 About Me
 
-- 🛡️ Cybersecurity Professional specializing in **Security Operations (SOC)** and **Threat Detection**
-- 🎓 Bachelor's Degree in Computer Science
-- 🔍 Interested in **Security Operations, Incident Response, Threat Hunting, and Digital Forensics**
-- 🤝 Open to Cybersecurity internships, SOC Analyst roles, and collaborations
-- 📍 Kismayo, Somalia
+**Cybersecurity Professional | SOC Analyst | Computer Science Graduate**
 
 ---
 
@@ -35,15 +27,15 @@ Cybersecurity Professional | SOC Analyst
 ## 💻 Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
+<img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
 ---
 
-## 💻 Scripting & Version Control
+## 💻 Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=powershell,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=powershell,python" />
 </p>
 
 ---
