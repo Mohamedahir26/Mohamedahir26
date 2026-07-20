@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dahir Mohamed</h1>
-<h3 align="center">Cybersecurity Professional | SOC Analyst |</h3>
+
+<h3 align="center">
+Cybersecurity Professional | SOC Analyst
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🛡️ Passionate Cybersecurity Professional with a focus on Security Operations Center (SOC) and Threat Detection.
-- 🎓 Bachelor's Degree in Computer Science.
-- 🤝 Open to cybersecurity opportunities and collaborations.
+- 🛡️ Cybersecurity Professional specializing in **Security Operations (SOC)** and **Threat Detection**
+- 🎓 Bachelor's Degree in Computer Science
+- 🔍 Interested in **Security Operations, Incident Response, Threat Hunting, and Digital Forensics**
+- 🤝 Open to Cybersecurity internships, SOC Analyst roles, and collaborations
 - 📍 Kismayo, Somalia
 
 ---
@@ -15,21 +19,31 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-dahir-mohamed-a16b9733b">
+
+<a href="https://linkedin.com/in/mohamed-dahir-mohamed-a16b9733b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:Mohameddahir826@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 💻 Scripting
+## 💻 Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=github,powershell,python," />
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
+</p>
+
+---
+
+## 💻 Scripting & Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=powershell,python,git,github,vscode" />
 </p>
 
 ---
@@ -37,37 +51,47 @@
 ## 🛡️ Security Tools
 
 <p>
+
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 🧠 Core Security Skills
 
-- SOC Monitoring & Threat Detection
-- SIEM Log Analysis (Splunk)
-- Endpoint Detection & Response (Microsoft Defender)
-- Incident Response
-- Network Traffic Analysis
-- Windows Event Log Analysis
-- Threat Hunting Fundamentals
-- Malware Investigation
-
+- ✅ SOC Monitoring & Threat Detection
+- ✅ SIEM Log Analysis (Splunk)
+- ✅ Endpoint Detection & Response (Microsoft Defender for Endpoint)
+- ✅ Incident Response
+- ✅ Threat Hunting
+- ✅ Network Traffic Analysis
+- ✅ Windows Event Log Analysis
+- ✅ Malware Investigation
+- ✅ Security Monitoring
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedahir26&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedahir26&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedahir26&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedahir26&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedahir26&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+⭐ <b>Thanks for visiting my profile!</b><br>
+<i>Always Learning • Always Improving • Securing the Future 🔐</i>
 </p>
