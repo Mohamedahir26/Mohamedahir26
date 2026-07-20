@@ -47,7 +47,10 @@
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
-
+### 🌐 Network Scanning
+<p>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+</p>
 ---
 
 
