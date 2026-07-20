@@ -23,36 +23,33 @@
 </p>
 
 ---
+## 📍 Operating Systems
 
-### 💻 Operating Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux" height="45"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
 ---
 
 ## 🛡️ Security Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="45" alt="Wireshark"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="45" alt="Python"/>
+### SIEM
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 </p>
 
-- 🔹 Splunk
-- 🔹 Wireshark
-- 🔹 Nmap
-- 🔹 Microsoft Defender for Endpoint
+### EDR
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+### Packet Analysis
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
 
 ---
 
-## 💻 Scripting
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powershell,python,bash" height="45"/>
-</p>
----
 
 ## 🧠 Core Security Skills
 
