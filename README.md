@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Dahir Mohamed
+# Hi 👋, I'm Mohamed Dahir 
 
 ### 🛡️ Cybersecurity | SOC Analyst | Blue Team
 
@@ -94,8 +94,17 @@ To become a skilled Cybersecurity Analyst specializing in Incident Response and 
 
 ---
 
+## 🧠 My Approach
+
 <p align="center">
   <img src="https://img.shields.io/badge/LEARN-0078D4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn"/>
+  <img src="https://img.shields.io/badge/BUILD-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Build"/>
   <img src="https://img.shields.io/badge/INVESTIGATE-orange?style=for-the-badge&logo=search&logoColor=white" alt="Investigate"/>
   <img src="https://img.shields.io/badge/DEFEND-CC3333?style=for-the-badge&logo=shield&logoColor=white" alt="Defend"/>
+</p>
+
+<p align="center">
+  <b>Learn. Build. Investigate. Defend.</b>
+  <br/>
+  <i>Thanks for visiting my GitHub profile!</i>
 </p>
