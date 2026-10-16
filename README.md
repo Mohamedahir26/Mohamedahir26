@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohamed Dahir Mohamed
 
-### 🛡️ Cybersecurity | SOC Analyst | Blue Team
+### 🛡️ Cybersecurity | SOC Analyst | Blue Team| Threat Detection & Incident Response
 
 I'm a Computer Science graduate passionate about cybersecurity, threat detection, and incident response. I focus on security monitoring, log analysis, and network defense through hands-on learning.
 
@@ -60,7 +60,7 @@ I'm a Computer Science graduate passionate about cybersecurity, threat detection
 
 ## 🚀 Hands-On Labs & Projects
 
-Coming Soon 🚧
+Coming Soon 
 
 ---
 
@@ -71,13 +71,6 @@ Coming Soon 🚧
 - Incident Response
 - Digital Forensics
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedahir26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
 
 ---
 
@@ -88,5 +81,7 @@ To become a Cybersecurity Analyst specializing in Incident Response and Digital 
 ---
 
 <p align="center">
-  🛡️ <b>Learn. Investigate. Defend.</b>
+  <img src="https://img.shields.io/badge/LEARN-0078D4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn"/>
+  <img src="https://img.shields.io/badge/INVESTIGATE-orange?style=for-the-badge&logo=search&logoColor=white" alt="Investigate"/>
+  <img src="https://img.shields.io/badge/DEFEND-CC3333?style=for-the-badge&logo=shield&logoColor=white" alt="Defend"/>
 </p>
