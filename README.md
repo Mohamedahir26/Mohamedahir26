@@ -1,85 +1,88 @@
-<h1 align="center">Hi 👋, I'm Mohamed Dahir Mohamed</h1>
+# Hi 👋, I'm Mohamed Dahir Mohamed
+
+### 🛡️ Cybersecurity | SOC Analyst | Blue Team | Threat Detection & Incident Response
+
+I'm a Computer Science graduate with a strong interest in cybersecurity, network defense, and security operations. I'm focused on developing my technical skills in threat detection, security monitoring, incident investigation, and defensive security.
+
+I enjoy hands-on learning, particularly analyzing security logs, working with SIEM tools, investigating network activity, and exploring practical approaches to identifying and responding to cyber threats.
+
+I'm looking to connect with cybersecurity professionals and explore opportunities in SOC Operations, Cybersecurity, IT Security, and Network Security.
 
 ---
 
-## 🚀 About Me
+## 🎓 Education & Certifications
 
-**Cybersecurity Professional | SOC Analyst | Computer Science Graduate**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/mohamed-dahir-mohamed-a16b9733b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:Mohameddahir826@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-## 📍 Operating Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
-
----
-## 🛡️ Security Tools
-
-### 📊 SIEM
-<p align="left">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-</p>
-
-### 🛡️ EDR
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
-
-### 📡 Packet Analysis
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
-
-### 🌐 Network Scanning
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-</p>
-
-
-## 🧠 Core Security Skills
-
-- ✅ SOC Monitoring & Threat Detection
-- ✅ SIEM Log Analysis (Splunk)
-- ✅ Endpoint Detection & Response (Microsoft Defender for Endpoint)
-- ✅ Incident Response
-- ✅ Threat Hunting
-- ✅ Network Traffic Analysis
-- ✅ Windows Event Log Analysis
-- ✅ Malware Investigation
-- ✅ Security Monitoring
+- 🎓 **BSc in Computer Science** — Plasma University, 2024
+- 🔐 **Google Cybersecurity Professional Certificate**
+- 🛡️ **CompTIA Security+** — Currently preparing
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Areas of Interest
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamedahir26&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedahir26&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedahir26&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- SOC Analysis & Security Monitoring
+- Threat Detection & Investigation
+- Incident Response
+- SIEM & Log Analysis
+- Network Security
+- Vulnerability Assessment
+- Digital Forensics
+- MITRE ATT&CK Framework
 
 ---
 
-<p align="center">
- <b>Thanks for visiting my profile!</b><br>
-</p>
+## 🛠️ Tools & Technologies
+
+### Security & Monitoring
+`Splunk` `Wazuh` `Wireshark` `Nmap`
+
+### Operating Systems & Infrastructure
+`Linux` `Ubuntu` `Kali Linux` `Windows` `Windows Server` `VirtualBox`
+
+### Web Development
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🚀 Hands-On Projects & Labs
+
+### 📊 SOC Monitoring & Log Analysis
+- Analyzing Windows Event Logs
+- Exploring security events and system activity
+- Practicing log analysis and threat detection
+- Learning SIEM concepts and security monitoring
+- Mapping security events to the MITRE ATT&CK Framework
+
+### 🌐 Network Security Labs
+- Network discovery and reconnaissance using Nmap
+- Network enumeration and service identification
+- Network traffic analysis using Wireshark
+- Investigating TCP/IP communications and network services
+
+---
+
+## 🌱 Currently Learning
+
+I'm strengthening my practical knowledge in:
+
+- Security Operations Center (SOC) workflows
+- Threat detection and security monitoring
+- Incident response and investigation
+- SIEM tools and log analysis
+- Digital forensics fundamentals
+
+**My Learning Path:**
+
+`SOC Operations` → `Threat Detection` → `Incident Response` → `Digital Forensics`
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a skilled Cybersecurity Analyst specializing in Incident Response and Digital Forensics. I aim to contribute to protecting digital environments, investigating security incidents, and strengthening cybersecurity capabilities in Somalia and beyond.
+
+---
+
+## 🧠 My Approach
+
+> Learn. Build. Investigate. Defend.
