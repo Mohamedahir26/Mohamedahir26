@@ -1,31 +1,12 @@
-# 👋 Hi, I'm Mohamed Dahir Mohamed
+# Hi 👋, I'm Mohamed Dahir Mohamed
 
 ### 🛡️ Cybersecurity | SOC Analyst | Blue Team | Threat Detection & Incident Response
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-Blue_Team-0078D4?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/SOC-Security_Operations-2E8B57?style=for-the-badge&logo=shield&logoColor=white" alt="SOC Operations"/>
-  <img src="https://img.shields.io/badge/Focus-Threat_Detection-orange?style=for-the-badge&logo=target&logoColor=white" alt="Threat Detection"/>
-</p>
+I'm a Computer Science graduate with a strong interest in cybersecurity, network defense, and security operations. I'm focused on developing my technical skills in threat detection, security monitoring, incident investigation, and defensive security.
 
-I'm a Computer Science graduate with a strong interest in cybersecurity, network defense, and security operations. I'm focused on developing my technical skills in security monitoring, threat detection, incident investigation, and defensive security.
+I enjoy hands-on learning, particularly analyzing security logs, working with SIEM tools, investigating network activity, and exploring practical approaches to identifying and responding to cyber threats.
 
-I enjoy hands-on learning, particularly analyzing security logs, working with SIEM tools, investigating network traffic, and exploring practical approaches to identifying and responding to cyber threats.
-
-I'm interested in opportunities in **Cybersecurity, SOC Operations, IT Security, and Network Security**, where I can apply my knowledge, gain practical experience, and continue growing professionally.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-dahir-mohamed-a16b9733b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Mohameddahir826@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+I'm looking to connect with cybersecurity professionals and explore opportunities in SOC Operations, Cybersecurity, IT Security, and Network Security.
 
 ---
 
@@ -33,7 +14,8 @@ I'm interested in opportunities in **Cybersecurity, SOC Operations, IT Security,
 
 - 🎓 **BSc in Computer Science** — Plasma University, 2024
 - 🔐 **Google Cybersecurity Professional Certificate**
-- 🛡️ **CompTIA Security+** — Preparing for certification
+- 🛡️ **CompTIA Security+** — Currently preparing
+
 
 ---
 
