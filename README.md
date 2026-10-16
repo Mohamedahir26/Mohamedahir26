@@ -35,7 +35,6 @@ I'm a Computer Science graduate passionate about cybersecurity, threat detection
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows" alt="Linux and Windows"/>
 </p>
----
 
 ## 🖥️ Virtualization
 
