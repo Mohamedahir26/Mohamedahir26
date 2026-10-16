@@ -2,9 +2,7 @@
 
 ### 🛡️ Cybersecurity | SOC Analyst | Blue Team
 
-I'm a Computer Science graduate passionate about cybersecurity, threat detection, and incident response. I focus on security monitoring, log analysis, and network defense while continuously developing my practical skills through hands-on labs.
-
-My goal is to become a Cybersecurity Analyst specializing in Incident Response and Digital Forensics.
+I'm a Computer Science graduate passionate about cybersecurity, threat detection, and incident response. I focus on security monitoring, log analysis, and network defense through hands-on learning.
 
 ---
 
@@ -19,24 +17,36 @@ My goal is to become a Cybersecurity Analyst specializing in Incident Response a
 ## 🛠️ Tools & Technologies
 
 ### 📊 SIEM & Security Monitoring
-- Splunk
-- Wazuh
+
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white" />
+</p>
 
 ### 🌐 Network Analysis & Scanning
-- Wireshark
-- Nmap
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" />
+</p>
 
 ### 💻 Operating Systems
-- Linux
-- Windows
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 
 ### 🖥️ Virtualization
-- VirtualBox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=virtualbox" />
+</p>
 
 ### 🌍 Web Development
-- HTML
-- CSS
-- JavaScript
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ---
 
@@ -47,27 +57,21 @@ My goal is to become a Cybersecurity Analyst specializing in Incident Response a
 - Incident Response
 - Network Security
 - Digital Forensics
-- MITRE ATT&CK Framework
 
 ---
 
 ## 🚀 Hands-On Labs & Projects
 
-- Windows Event Log Analysis
-- SIEM Monitoring & Threat Detection
-- Network Traffic Analysis
-- Security Event Investigation
-- MITRE ATT&CK Mapping
+Coming Soon 🚧
 
 ---
 
 ## 🌱 Currently Learning
 
-- SOC Operations & SIEM
+- SOC Analysis
 - Threat Detection
 - Incident Response
 - Digital Forensics
-- Network Defense
 
 ---
 
@@ -75,33 +79,16 @@ My goal is to become a Cybersecurity Analyst specializing in Incident Response a
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamedahir26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedahir26&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedahir26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled Cybersecurity Analyst specializing in Incident Response and Digital Forensics, contributing to a safer digital environment in Somalia and beyond.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-dahir-mohamed-a16b9733b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+To become a Cybersecurity Analyst specializing in Incident Response and Digital Forensics, contributing to a safer digital environment in Somalia and beyond.
 
 ---
 
 <p align="center">
   🛡️ <b>Learn. Investigate. Defend.</b>
-  <br/>
-  <i>Thanks for visiting my profile!</i>
 </p>
