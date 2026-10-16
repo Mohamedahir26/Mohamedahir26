@@ -62,7 +62,7 @@ I'm a Computer Science graduate passionate about cybersecurity, threat detection
 
 ## 🚀 Hands-On Labs & Projects
 
-*Coming Soon — currently building practical cybersecurity projects.*
+*currently building practical cybersecurity projects.*
 
 ---
 
@@ -104,7 +104,5 @@ To become a skilled Cybersecurity Analyst specializing in Incident Response and 
 </p>
 
 <p align="center">
-  <b>Learn. Build. Investigate. Defend.</b>
-  <br/>
   <i>Thanks for visiting my GitHub profile!</i>
 </p>
