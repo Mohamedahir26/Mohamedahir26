@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Dahir 
+# Hi 👋, I'M Mohamed Dahir 
 
 ### 🛡️ Cybersecurity | SOC Analyst | Blue Team
 
@@ -35,11 +35,10 @@ I'm a Computer Science graduate passionate about cybersecurity, threat detection
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,windows" alt="Linux and Windows"/>
 </p>
-
 ### 🖥️ Virtualization
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="45" height="45" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VirtualBox"/>
 </p>
 
 ### 🌍 Web Development
@@ -78,19 +77,6 @@ I'm a Computer Science graduate passionate about cybersecurity, threat detection
 ## 🎯 Career Goal
 
 To become a skilled Cybersecurity Analyst specializing in Incident Response and Digital Forensics, contributing to a safer digital environment in Somalia and beyond.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-dahir-mohamed-a16b9733b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Mohameddahir826@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
 
 ---
 
