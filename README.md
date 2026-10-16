@@ -38,9 +38,7 @@ I'm a Computer Science graduate passionate about cybersecurity, threat detection
 
 ### 🖥️ Virtualization
 
-<p>
-  <img src="https://skillicons.dev/icons?i=virtualbox" />
-</p>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
 
 ### 🌍 Web Development
 
