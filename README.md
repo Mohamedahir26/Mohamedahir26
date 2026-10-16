@@ -24,12 +24,10 @@ I'm looking to connect with cybersecurity professionals and explore opportunitie
 - 📊 SOC Analysis & Security Monitoring
 - 🔎 Threat Detection & Investigation
 - 🚨 Incident Response
-- 📋 SIEM & Log Analysis
 - 🌐 Network Security
 - 🔍 Vulnerability Assessment
 - 🕵️ Digital Forensics
 - 🎯 MITRE ATT&CK Framework
-- 🛡️ Blue Team Operations
 
 ---
 
@@ -79,12 +77,7 @@ I'm looking to connect with cybersecurity professionals and explore opportunitie
 - Learning SIEM concepts and threat detection
 - Mapping security events to the MITRE ATT&CK Framework
 
-### 🌐 Network Security Labs
-
-- Network discovery and reconnaissance using Nmap
-- Network enumeration and service identification
-- Network traffic analysis using Wireshark
-- Investigating TCP/IP communications and network services
+#
 
 ---
 
@@ -95,9 +88,9 @@ I'm continuously developing my practical knowledge in:
 - Security Operations Center (SOC) workflows
 - SIEM tools and security event analysis
 - Threat detection and investigation
-- Incident response fundamentals
+- Incident response 
 - Network defense and traffic analysis
-- Digital forensics fundamentals
+- Digital forensics 
 
 ### 📌 My Learning Path
 
