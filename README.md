@@ -11,13 +11,24 @@ Computer Science graduate passionate about cybersecurity, threat detection, and 
 - Google Cybersecurity Professional Certificate
 - CompTIA Security+ — In Progress
 
-### 🛠️ Tools & Technologies
 
-- **SIEM:** Splunk, Wazuh
-- **Network Analysis:** Wireshark, Nmap
-- **Operating Systems:** Linux, Windows
-- **Virtualization:** VirtualBox
-- **Web Technologies:** HTML, CSS, JavaScript
+## 🛠️ Tools & Technologies
+
+### 🔐 Security & SIEM
+`Splunk` `Wazuh` 
+
+### 🌐 Network Analysis & Scanning
+`Wireshark` `Nmap` 
+
+### 💻 Operating Systems & Infrastructure
+`Linux` `Windows` `Windows Server` 
+
+### 👨‍💻 Virtualization
+`VirtualBox`
+
+### 👨‍💻 Development
+`HTML` `CSS` `JavaScript`
+
 
 ### 🔐 Core Interests
 
